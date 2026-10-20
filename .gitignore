@@ -44,3 +44,9 @@ compile_commands.json
 !/tools/xwin-watch/*.h
 !/tools/xwin-watch/protocols/
 !/tools/xwin-watch/generated/
+review/MAGI-REVIEW.md
+.gitignore
+/review/*
+!/review/*/
+/review/*/*
+Plan.md
